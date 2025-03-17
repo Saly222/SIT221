@@ -86,7 +86,7 @@ namespace Vector
         // If the array data has reached its capacity, it expands the storage using ExtendData method before proceeding.
         // The method then shifts all elements from the specified index onward one position to the right to create space for the new element.
         // After shifting, the new element is placed at the given index, and the Count is incremented to reflect the updated size.
-        // Finally, PrintContents() is called to display the modified state of the data structure.
+        // Finally, PrintContents() is called to display the modified array.
 
         public void Insert(int index, T element)
         {
