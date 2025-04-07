@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Vector;
 
-namespace SortingAlgorithms
+namespace Vector
 {
     public class InsertionSort : ISorter
     {
