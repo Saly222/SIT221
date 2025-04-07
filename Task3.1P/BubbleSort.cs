@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Vector;
 
-namespace SortingAlgorithms
+namespace Vector
 {
     // BubbleSort class implements the ISorter interface
     public class BubbleSort : ISorter
